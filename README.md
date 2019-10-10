@@ -7,4 +7,4 @@ Server Rails
 
 ## Screenshots
 
-![ ](https://raw.github.com/hirohisa/SFAuthenticationSessionSample/master/screenshots/screenshot1.png)
+![ ](https://raw.github.com/hirohisa/SFAuthenticationSessionSample/master/screenshots/screenshot_1.png)
